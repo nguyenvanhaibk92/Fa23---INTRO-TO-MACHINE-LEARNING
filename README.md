@@ -1,4 +1,4 @@
-# Fa22 - INTRO TO MACHINE LEARNING (15290) (UT EM397)
+# Fa23 - INTRO TO MACHINE LEARNING (15290) (UT EM397)
 
 <!-- This repo contains executable course notes and slides for the Applied ML course at Cornell and Cornell Tech.
 
@@ -13,11 +13,12 @@ Instructor: Dr. Tan Bui-Thanh
 Teaching assistant: Mr. Hai Nguyen
 ## Contents
 
-The course focus on fundamental topics in machine learning,
+The course focuses on fundamental topics in machine learning
 
 ## Sylabus
-
+See on the Canvas
 
 ## Contact
+
 
 
